@@ -1,0 +1,58 @@
+D:\keroles\My Project Verson\Poject Queue LIne  System (Verson 1.1.0)\bin\Debug\QueueLine_Project.exe.config
+D:\keroles\My Project Verson\Poject Queue LIne  System (Verson 1.1.0)\bin\Debug\QueueLine_Project.exe
+D:\keroles\My Project Verson\Poject Queue LIne  System (Verson 1.1.0)\bin\Debug\QueueLine_Project.pdb
+D:\keroles\My Project Verson\Poject Queue LIne  System (Verson 1.1.0)\obj\Debug\QueueLine_Project.csproj.AssemblyReference.cache
+D:\keroles\My Project Verson\Poject Queue LIne  System (Verson 1.1.0)\obj\Debug\QueueLine_Project.exe.config
+D:\keroles\My Project Verson\Poject Queue LIne  System (Verson 1.1.0)\obj\Debug\QueueLine_Project.Forms.frmTicketController.resources
+D:\keroles\My Project Verson\Poject Queue LIne  System (Verson 1.1.0)\obj\Debug\QueueLine_Project.Forms.frmTicketDetails.resources
+D:\keroles\My Project Verson\Poject Queue LIne  System (Verson 1.1.0)\obj\Debug\QueueLine_Project.Forms.frmtest.resources
+D:\keroles\My Project Verson\Poject Queue LIne  System (Verson 1.1.0)\obj\Debug\QueueLine_Project.Forms.frmQueueInfo.resources
+D:\keroles\My Project Verson\Poject Queue LIne  System (Verson 1.1.0)\obj\Debug\QueueLine_Project.Properties.Resources.resources
+D:\keroles\My Project Verson\Poject Queue LIne  System (Verson 1.1.0)\obj\Debug\QueueLine_Project.usercontrols.ctrlQueueInfo.resources
+D:\keroles\My Project Verson\Poject Queue LIne  System (Verson 1.1.0)\obj\Debug\QueueLine_UI.UserControls.ctrlTicketController.resources
+D:\keroles\My Project Verson\Poject Queue LIne  System (Verson 1.1.0)\obj\Debug\QueueLine_Project.usercontrols.ctrlTicketInfo.resources
+D:\keroles\My Project Verson\Poject Queue LIne  System (Verson 1.1.0)\obj\Debug\QueueLine_Project.csproj.GenerateResource.cache
+D:\keroles\My Project Verson\Poject Queue LIne  System (Verson 1.1.0)\obj\Debug\QueueLine_Project.csproj.CoreCompileInputs.cache
+D:\keroles\My Project Verson\Poject Queue LIne  System (Verson 1.1.0)\obj\Debug\QueueLine_Project.exe
+D:\keroles\My Project Verson\Poject Queue LIne  System (Verson 1.1.0)\obj\Debug\QueueLine_Project.pdb
+D:\keroles\My Project Verson\Poject Queue LIne  System (Verson 1.1.0)\obj\Debug\QueueLine_UI.UserControls.ctrlTicketQueueScreen.resources
+D:\keroles\مشاكل وكورسات للسي شارب DB + .NET مهم جدااااااااا\QueueLine_Project\bin\Debug\QueueLine_Project.exe.config
+D:\keroles\مشاكل وكورسات للسي شارب DB + .NET مهم جدااااااااا\QueueLine_Project\bin\Debug\QueueLine_Project.exe
+D:\keroles\مشاكل وكورسات للسي شارب DB + .NET مهم جدااااااااا\QueueLine_Project\bin\Debug\QueueLine_Project.pdb
+D:\keroles\مشاكل وكورسات للسي شارب DB + .NET مهم جدااااااااا\QueueLine_Project\obj\Debug\QueueLine_Project.csproj.AssemblyReference.cache
+D:\keroles\مشاكل وكورسات للسي شارب DB + .NET مهم جدااااااااا\QueueLine_Project\obj\Debug\QueueLine_Project.Forms.frmTicketController.resources
+D:\keroles\مشاكل وكورسات للسي شارب DB + .NET مهم جدااااااااا\QueueLine_Project\obj\Debug\QueueLine_Project.Forms.frmTicketDetails.resources
+D:\keroles\مشاكل وكورسات للسي شارب DB + .NET مهم جدااااااااا\QueueLine_Project\obj\Debug\QueueLine_Project.Forms.frmtest.resources
+D:\keroles\مشاكل وكورسات للسي شارب DB + .NET مهم جدااااااااا\QueueLine_Project\obj\Debug\QueueLine_Project.Forms.frmQueueInfo.resources
+D:\keroles\مشاكل وكورسات للسي شارب DB + .NET مهم جدااااااااا\QueueLine_Project\obj\Debug\QueueLine_Project.Properties.Resources.resources
+D:\keroles\مشاكل وكورسات للسي شارب DB + .NET مهم جدااااااااا\QueueLine_Project\obj\Debug\QueueLine_UI.UserControls.ctrlTicketQueueScreen.resources
+D:\keroles\مشاكل وكورسات للسي شارب DB + .NET مهم جدااااااااا\QueueLine_Project\obj\Debug\QueueLine_Project.usercontrols.ctrlQueueInfo.resources
+D:\keroles\مشاكل وكورسات للسي شارب DB + .NET مهم جدااااااااا\QueueLine_Project\obj\Debug\QueueLine_UI.UserControls.ctrlTicketController.resources
+D:\keroles\مشاكل وكورسات للسي شارب DB + .NET مهم جدااااااااا\QueueLine_Project\obj\Debug\QueueLine_Project.usercontrols.ctrlTicketInfo.resources
+D:\keroles\مشاكل وكورسات للسي شارب DB + .NET مهم جدااااااااا\QueueLine_Project\obj\Debug\QueueLine_Project.usercontrols.ctrlTicketViewer.resources
+D:\keroles\مشاكل وكورسات للسي شارب DB + .NET مهم جدااااااااا\QueueLine_Project\obj\Debug\QueueLine_Project.csproj.GenerateResource.cache
+D:\keroles\مشاكل وكورسات للسي شارب DB + .NET مهم جدااااااااا\QueueLine_Project\obj\Debug\QueueLine_Project.csproj.CoreCompileInputs.cache
+D:\keroles\مشاكل وكورسات للسي شارب DB + .NET مهم جدااااااااا\QueueLine_Project\obj\Debug\QueueLine_Project.exe
+D:\keroles\مشاكل وكورسات للسي شارب DB + .NET مهم جدااااااااا\QueueLine_Project\obj\Debug\QueueLine_Project.pdb
+D:\keroles\مشاكل وكورسات للسي شارب DB + .NET مهم جدااااااااا\QueueLine_Project\obj\Debug\QueueLine_Project.exe.config
+D:\keroles\مشاكل وكورسات للسي شارب DB + .NET مهم جدااااااااا\QueueLine_Project\obj\Debug\QueueLine_Project.Forms.frmTicketViewer.resources
+D:\keroles\MY (CV)\QueueLine_Project\bin\Debug\QueueLine_Project.exe.config
+D:\keroles\MY (CV)\QueueLine_Project\bin\Debug\QueueLine_Project.exe
+D:\keroles\MY (CV)\QueueLine_Project\bin\Debug\QueueLine_Project.pdb
+D:\keroles\MY (CV)\QueueLine_Project\obj\Debug\QueueLine_Project.csproj.AssemblyReference.cache
+D:\keroles\MY (CV)\QueueLine_Project\obj\Debug\QueueLine_Project.exe.config
+D:\keroles\MY (CV)\QueueLine_Project\obj\Debug\QueueLine_Project.Forms.frmTicketViewer.resources
+D:\keroles\MY (CV)\QueueLine_Project\obj\Debug\QueueLine_Project.Forms.frmTicketController.resources
+D:\keroles\MY (CV)\QueueLine_Project\obj\Debug\QueueLine_Project.Forms.frmTicketDetails.resources
+D:\keroles\MY (CV)\QueueLine_Project\obj\Debug\QueueLine_Project.Forms.frmtest.resources
+D:\keroles\MY (CV)\QueueLine_Project\obj\Debug\QueueLine_Project.Forms.frmQueueInfo.resources
+D:\keroles\MY (CV)\QueueLine_Project\obj\Debug\QueueLine_Project.Properties.Resources.resources
+D:\keroles\MY (CV)\QueueLine_Project\obj\Debug\QueueLine_UI.UserControls.ctrlTicketQueueScreen.resources
+D:\keroles\MY (CV)\QueueLine_Project\obj\Debug\QueueLine_Project.usercontrols.ctrlQueueInfo.resources
+D:\keroles\MY (CV)\QueueLine_Project\obj\Debug\QueueLine_UI.UserControls.ctrlTicketController.resources
+D:\keroles\MY (CV)\QueueLine_Project\obj\Debug\QueueLine_Project.usercontrols.ctrlTicketInfo.resources
+D:\keroles\MY (CV)\QueueLine_Project\obj\Debug\QueueLine_Project.usercontrols.ctrlTicketViewer.resources
+D:\keroles\MY (CV)\QueueLine_Project\obj\Debug\QueueLine_Project.csproj.GenerateResource.cache
+D:\keroles\MY (CV)\QueueLine_Project\obj\Debug\QueueLine_Project.csproj.CoreCompileInputs.cache
+D:\keroles\MY (CV)\QueueLine_Project\obj\Debug\QueueLine_Project.exe
+D:\keroles\MY (CV)\QueueLine_Project\obj\Debug\QueueLine_Project.pdb
